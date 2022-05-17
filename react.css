@@ -1,0 +1,26 @@
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menus {
+  list-style: none;
+  display: flex;
+  color: green;
+}
+.menus > li {
+  padding: 10px;
+}
+.image {
+  height: 40px;
+  width: 40px;
+}
+.line {
+  padding: 20px;
+  color: black;
+}
+.footer {
+  background-color: grey;
+  padding: 5px;
+}
